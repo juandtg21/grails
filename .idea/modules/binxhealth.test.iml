@@ -12,6 +12,17 @@
       <sourceFolder url="file://$MODULE_DIR$/../../src/test/groovy" isTestSource="true" />
     </content>
     <orderEntry type="inheritedJdk" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: com.googlecode.concurrentlinkedhashmap:concurrentlinkedhashmap-lru:1.4.2" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.seleniumhq.selenium:selenium-firefox-driver:3.14.0" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.apache.tomcat:tomcat-juli:9.0.21" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: javax.el:el-api:2.1.2-b03" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: com.bertramlabs.plugins:asset-pipeline-core:3.0.10" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: com.bertramlabs.plugins:asset-pipeline-grails:3.0.10" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.glassfish.web:el-impl:2.1.2-b03" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.seleniumhq.selenium:selenium-chrome-driver:3.14.0" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: com.fasterxml.jackson.datatype:jackson-datatype-jsr310:2.9.9" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.apache.tomcat:tomcat-jdbc:9.0.21" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: javax.xml.bind:jaxb-api:2.3.0" level="project" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="binxhealth.main" />
     <orderEntry type="library" name="Gradle: org.springframework.boot:spring-boot-starter-actuator:2.1.6.RELEASE" level="project" />
@@ -213,17 +224,6 @@
         </excluded>
       </library>
     </orderEntry>
-    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.glassfish.web:el-impl:2.1.2-b03" level="project" />
-    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.apache.tomcat:tomcat-jdbc:9.0.21" level="project" />
-    <orderEntry type="library" scope="RUNTIME" name="Gradle: javax.xml.bind:jaxb-api:2.3.0" level="project" />
-    <orderEntry type="library" scope="RUNTIME" name="Gradle: com.bertramlabs.plugins:asset-pipeline-grails:3.0.10" level="project" />
-    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.seleniumhq.selenium:selenium-chrome-driver:3.14.0" level="project" />
-    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.seleniumhq.selenium:selenium-firefox-driver:3.14.0" level="project" />
-    <orderEntry type="library" scope="RUNTIME" name="Gradle: com.googlecode.concurrentlinkedhashmap:concurrentlinkedhashmap-lru:1.4.2" level="project" />
-    <orderEntry type="library" scope="RUNTIME" name="Gradle: javax.el:el-api:2.1.2-b03" level="project" />
-    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.apache.tomcat:tomcat-juli:9.0.21" level="project" />
-    <orderEntry type="library" scope="RUNTIME" name="Gradle: com.bertramlabs.plugins:asset-pipeline-core:3.0.10" level="project" />
-    <orderEntry type="library" scope="RUNTIME" name="Gradle: com.fasterxml.jackson.datatype:jackson-datatype-jsr310:2.9.9" level="project" />
   </component>
   <component name="TestModuleProperties" production-module="binxhealth.main" />
 </module>

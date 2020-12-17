@@ -33,7 +33,7 @@
                 <td><a href="show/${partner.id}">${fieldValue(bean: partner, field: "code")}</a></td>
                 <td>${fieldValue(bean: partner, field: "subdomain")}</td>
                 <td>${fieldValue(bean: partner, field: "has_own_clinician")}</td>
-                <td>${fieldValue(bean: partner, field: "partnerstatesavailable")}</td>
+                <td>${fieldValue(bean: partner, field: "partnerstatesavailable").replaceAll("[\\p{Ps}\\p{Pe}]", "")}</td>
             </tr>
         </g:each>
         </tbody>

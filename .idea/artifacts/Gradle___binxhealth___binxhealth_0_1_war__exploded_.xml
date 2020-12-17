@@ -34,6 +34,7 @@
           <element id="library" level="project" name="Gradle: org.grails.plugins:gsp:4.0.0" />
           <element id="library" level="project" name="Gradle: org.grails:grails-core:4.0.0" />
           <element id="library" level="project" name="Gradle: org.springframework.boot:spring-boot-starter-tomcat:2.1.6.RELEASE" />
+          <element id="library" level="project" name="Gradle: org.postgresql:postgresql:42.1.4" />
           <element id="library" level="project" name="Gradle: org.grails.plugins:cache:4.0.0" />
           <element id="library" level="project" name="Gradle: org.grails.plugins:scaffolding:4.0.0.RC1" />
           <element id="library" level="project" name="Gradle: org.hibernate:hibernate-core:5.4.0.Final" />
@@ -176,7 +177,6 @@
           <element id="library" level="project" name="Gradle: com.bertramlabs.plugins:asset-pipeline-core:3.0.10" />
           <element id="library" level="project" name="Gradle: com.fasterxml.jackson.datatype:jackson-datatype-jsr310:2.9.9" />
           <element id="library" level="project" name="Gradle: commons-logging:commons-logging:1.1.1" />
-          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.postgresql/postgresql/42.1.4/1c7788d16b67d51f2f38ae99e474ece968bf715a/postgresql-42.1.4.jar" />
         </element>
       </element>
     </root>
